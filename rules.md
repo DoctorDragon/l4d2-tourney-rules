@@ -30,56 +30,16 @@ appearance of a conflict of interest, a tournament director will yield
 to a counterpart if possible.
 
 #####1.4 Official communication
-Official communication will take place via the forum on L4Dnation.com.
+Official communication will take place via the [official cup group](http://steamcommunity.com/groups/M2WorldCup).
 
 ##Section 2: Tournament format, standings, and tiebreaks
 
 #####2.1 Format
-This will be a Swiss System tournament of [TBD] rounds. A match win will
-score 1 point; a tie scores a half point; a loss or forfeit scores 0
-points.
+This will be a basic Single Elimination tourney with no group stages.
 
 ######2.1.1 Pairings
 After the registration deadline, the registered participants will be
-seeded according to the judgment of the tournament director. The first
-round will then be paired by a "top half vs bottom half" method: for
-example, if there are 10 participants then the #1 seed will be paired
-against the #6 seed, the #2 seed against the #7 seed, and so on.
-
-In subsequent rounds, partcipants will be paired at random against
-others with the same record of Won : Lost games.
-
-There will be no eliminations due to poor results or lost games.
-
-######2.1.2 Double jeopardy
-Under no circumstances will two competitors face each other more than
-once during the tournament.
-
-######2.1.3 Awarding a bye
-In the event that a round must be paired with an uneven number of
-participants, a bye will be awarded to the lowest ranked participant in
-the lowest score group. A bye scores a full point.
-
-######2.1.4 Tiebreakers
-Ties will be broken by the following criteria, descending ( see [Neustadtl Score](https://en.wikipedia.org/wiki/Sonneborn-Berger_score) ):
-
-1. The result of the head-to-head matchup of the tied participants, if
-applicable.
-2. The sum of conventional scores of the teams each participant has
-defeated (higher is better).
-3. The sum of conventional scores of the teams each participant has been
-defeated by (higher is better).
-
-######2.1.5 More information
-For information on the Swiss System, you can review the following
-links:
-
-* [Wikipedia](https://en.wikipedia.org/wiki/Swiss-system_tournament)
-* [World Chess Federation](http://www.fide.com/component/handbook/?id=84&view=article)
-* [Wizards of the Coast](http://www.wizards.com/dci/downloads/Swiss_Pairings.pdf)
-
-If you have any further questions about the Swiss System, contact a
-Tournament Director or the author.
+seeded randomly(this is an M2 cup after all).
 
 #####2.2 Deadlines
 Because the pairings based on prior round scoring, the next round
@@ -90,21 +50,18 @@ Therefore, there will be a *ZERO TOLERANCE* policy for matches that
 remain unreported past the round deadline.
 
 #####2.3 Maps
-- Detour Ahead
-- Dead Center
-- Death Toll
-- Hard Rain
-- Swamp Fever
-- Dark Carnival
-- The Parish
+- **1/8:** Swamp Fever
+- **1/4:** Hard Rain
+- **1/2:** The Parish
+- **FINAL:** Dark Carnival
 
 ######2.3.2 Finales
-All finales will be played except for The Parish finale.
+No finales will be played.
 
 ##Section 3: Team registration
 
 #####3.1 Registration
-Teams may register by filling out the [web form](https://docs.google.com/forms/d/18L6KR5lgGzh2wGbD1M6YTDMxRqU1c9CXWK-A_gAYatU/viewform).
+Teams may register [here](http://steamcommunity.com/groups/M2WorldCup).
 
 #####3.2 Registration deadline
 The deadline for registrations is midnight on [DATE]. Late registrations
@@ -115,42 +72,21 @@ Competitors may be registered for only one team in the tournament. A
 competitor who drops from a roster may not re-join with another team
 after the registration deadline.
 
-##Section 4: Servers
-Game servers will be selected according to the following criteria:
-
-#####4.1 Hosting
-The server must be dedicated and hosted by a reputable hosting company
-inside the continental United States.
-
-#####4.2 Configuration
-The server will have an up to date and working installation of the
-configuration and plugins. The version to be played will be posted with
-the pairings each round.
-
-#####4.3 Tickrate
-Servers with 60 tickrate will be preferred, unless both teams agree
-to another tickrate.
-
-#####4.4 DOS protection
-Servers with [DoS Protection](https://github.com/SirPlease/IPTables) are preferred.
-
-#####4.5 Disagreements
-If both teams have a server but cannot agree on which server to use, the
-match will be played on the server that satisfies the above criteria and
-has most even average ping for all the competitors.
+##Section 4: Config & Servers
+The config used in this tourney is **JaegerMod**, which is featured 
+exclusively on **Hyper-V** servers. This is where the rule of **Hyper-V** being 
+the only allowed servers stems from.
 
 ##Section 5: Match scheduling and match rules
 
 #####5.1 Rounds and scheduling
-Pairings and brackets for each round will be posted weekly on Monday.
+Pairings and brackets for each round will be updated via **BinaryBeast**.
 
 Players are strongly encouraged to use the free online scheduling tool
 at [whenisgood.net](http://whenisgood.net): it is free, functional, does
 not require registration, and supports time zones.
 
 ######5.1.1 Scheduling deadline
-Matches must be scheduled before the following Wednesday at midnight.
-
 Teams are encouraged to begin negotiating the schedule early; delinquent
 scheduling must be brought to the attention of the staff before the
 deadline.
@@ -158,7 +94,7 @@ deadline.
 ######5.1.2 Reporting deadline
 Results must be submitted, with a screenshot, by the following Sunday at
 midnight. Failure to report weekly round results before the deadline
-will result in a double forfeit. Under no circumstances whatsoever will
+will result in a randomly awarded defwin. Under no circumstances whatsoever will
 extensions be granted.
 
 ######5.1.3 Scheduling duties
@@ -175,14 +111,13 @@ team, and the admins or casters.
 
 #####5.3 Casting
 The players agree that the matches may be casted according to the usual
-process. Servers should have room for up to two casters, two cameramen,
-and an admin. Access to mumble servers for ‘war rooms’ is appreciated
+process. Access to mumble servers for ‘war rooms’ is appreciated
 but not required.
 
 #####5.4 Spectators and admins
 
 ######5.4.1 Requests for Oversight
-Any team may request that an admin be present at their match. The staff
+Any team may request that an admin or an admin-approved party be present at their match. The staff
 will honor reasonable requests to the best of their ability, weighing
 conflicting obligations, the significance of the match to the tournament
 results, and the seriousness of concerns about improper behavior that
@@ -227,14 +162,14 @@ re-record after disconnecting from the server for any reason.
 
 ######5.7.3 Screenshots are mandatory
 Each team is allowed up to one (1) pause per round to request
-screenshots.
+screenshots from each player of the opponent team.
 
 Each competitor must take a screenshot whenever asked by anyone in the
 server.
 
 ######5.7.4 Privacy
-Competitors are never required to provide demos or screenshots to anyone
-except the staff. Although there is no basis for an expectation of
+Competitors are required to provide demos or screenshots to the staff and their 
+respective opponent for the given match. Although there is no basis for an expectation of
 privacy, they are considered confidential and will be shared only for:
 
 - Asking second opinions of skilled players who are trusted to keep what
@@ -246,7 +181,7 @@ It is each competitor’s individual responsibility to ensure that demos
 and screenshots are recorded, uncorrupted, and submitted in a timely
 manner.
 
-Failure to submit demos or screenshots on the request of the staff will
+Failure to submit demos or screenshots on the request of the staff or the opponent will
 result at minimum in a zero score for the associated rounds, and
 possible suspension of the player from the tournament.
 
@@ -273,22 +208,15 @@ Intentionally positioning a tank so that it cannot advance when AI
 controlled is not allowed.
 
 ######5.9.4 Spectating
-Players may spectate if and only if they have unintentionally become
-stuck in a clip brush or other entity and cannot move.
+Players may not spectate during a live game, regardless of circumstances. The **!stuck** feature must be used to unstick yourself. If it doesn't help, the player must rejoin the server ***without prior spectating***.
 
-The minimum penalty for abuse of the spectate command will be a zero
-score for the round. The maximum penalty for repeated or severe
+The minimum penalty for a one-time use of the spectate command will be 100 pts. 
+The maximum penalty for abused, repeated or severe
 infractions will be a forfeit loss of the match.
 
 #####5.10 Glitches
 
-######5.10.1 Rescue vehicles
-In the event of a finale rescue vehicle glitch (most common on Swamp
-Fever, but also possible on Dark Carnival and Hard Rain) the half will
-be replayed following a restart round. If necessary the final scores
-will be calculated manually.
-
-######5.10.2 Unclearable survivors
+######5.10.1 Unclearable survivors
 If a pinned survivor is unclearable after an infected player gains
 control of the tank, either team can request that the round be
 replayed. If requested, the tournament directors may review demos and
@@ -316,44 +244,25 @@ forfeiture of team eligibility for any prizes.
 #####6.2 Permitted modifications
 The following modifications are PERMITTED:
 
-######6.2.1 Menu
-All modifications to the Left 4 Dead 2 user interface that do not alter,
-nor interact with the in-game user experience, nor provide additional
-information about the game state (e.g. ZoneMenu, menu music, menu fonts,
-menu shortcuts, console fonts, etc) are allowed.
-
-######6.2.2 HUDs
-Modifying or removing HUDs, crosshairs, and pain pointers is allowed.
-
-######6.2.3 Gun models
-Modifying or removing gun models and reload animations is allowed.
-
-######6.2.4 Tank music
-Modifying or removing “tank music” including altering the volume is
-allowed.
-
-######6.2.5 Blue tint
+######6.2.1 Blue tint
 Modifying or removing the blue tint while spawning special infected in
 “ghost mode” is allowed.
 
-######6.2.6 Red tint
+######6.2.2 Red tint
 Modifying or removing the red tint that appears while spawned as special
 infected or tank is allowed.
 
-######6.2.7 Console variables ("cvars")
+######6.2.3 Console variables ("cvars")
 Source engine configuration files and scripts that do not exploit
 “cheat” cvars, as noted on the official List of cvars, and do not
 circumvent cvars blocked by the competitive configuration (e.g.
 `mat_hdr`) are allowed.
 
-######6.2.8 Wait
-Use of the wait command in scripts is allowed without limitation.
-
-######6.2.9 Command-line arguments
+######6.2.4 Command-line arguments
 All command-line arguments that do not exploit nor allow the player to
 exploit “cheat” cvars are allowed.
 
-######6.2.10 GUI options
+######6.2.5 GUI options
 Any configuration setting that can be altered using the standard
 in-game menu options or legal console variables is allowed.
 
@@ -369,8 +278,7 @@ textures, skyboxes, props, or other materials and files used for
 rendering the in-game environment are forbidden.
 
 ######6.3.2 Audio elements
-Any changes whatsoever to game sounds (excluding Section 6.2.4) are
-forbidden.
+Any changes whatsoever to game sounds are forbidden.
 
 ######6.3.3 Third-party hooks
 Any third-party applications, programs, or macros that read or modify
@@ -382,11 +290,6 @@ about the game state to the player, or that simulate mouse movement
 After the ready-up for the first half of each map, changing `cl_interp`
 and `cl_interp_ratio` values is forbidden until both halves of the round
 are complete.
-
-#####6.5 Addon toggling
-Aside from exceptions provided in Section 6.2.1, enabling or disabling
-addons or modifying files after the first ready-up is strictly
-forbidden, even when disconnecting or reconnecting from the server.
 
 ##Section 7: Behavior and etiquette
 
@@ -416,7 +319,7 @@ Players may not use sprays that are grotesque, violent, obscene, or
 depict other disturbing or offensive imagery such as pornography,
 racist logos, or “shock” images.
 
-####Legal
+####Original Legal Note
 Copyright (C) 2014 by Ryan Delaney. Permission is granted to copy,
 distribute and/or modify this document under the terms of the GNU Free
 Documentation License, Version 1.3 or any later version published by the
