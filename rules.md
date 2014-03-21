@@ -1,29 +1,19 @@
-﻿##Section 0: Readme
-####l4d2-tourney-rules
-This file provides a standardized ruleset for Left 4 Dead 2
-tournaments.
-
-- [Homepage](https://github.com/rpdelaney/l4d2-tourney-rules)
-
-####Legal
-Copyright (C) 2014 by Ryan Delaney. Permission is granted to copy,
-distribute and/or modify this document under the terms of the GNU Free
-Documentation License, Version 1.3 or any later version published by the
-Free Software Foundation; with no Invariant Sections, no Front-Cover
-Texts, and no Back-Cover Texts. A copy of the license is included in the
-file titled "LICENSE".
-
-Valve, the Valve logo, Left 4 Dead, Left 4 Dead 2, Steam, and the Steam
-logo are trademarks and/or registered trademarks of Valve Corporation.
-All other trademarks are property of their respective owners.
+![EMS ONE M2 World Cup](http://31.186.250.11/images/emsm2worldcup.png)
+#EMS One M2 World Cup Rules
+######Become the Grandmaster of M2. Crush your opponents with the most superior mechanic in the **Left 4 Dead Series**. Sign the petition for keeping M2 in L4D3.
+![The Big There](http://31.186.250.11/images/alliance_ws.png)
+##Section 0: Special Invitees & Guests of Honour
+- Team Route 66(Johzi, Xnider, ...)
+- Team B$(Bayonetta, Vego, ...)
+- Team DK(Sandy, Skifcha, ...)
+- ...
 
 ##Section 1: Tournament administration
 
 #####1.1 Staff
 
 The Tournament Director will be:
-- [an entire sleeve of fig newtons](http://steamcommunity.com/id/fignewtons)
-- ryan dot delaney gmail com (GPG key-id: `4096R/B63436F1C9E7771B`)
+- [Visor](http://steamcommunity.com/id/Marauder_Shields)
 
 #####1.2 Disputes
 The Tournament Director is the sole arbiter and court of last resort for
@@ -426,6 +416,14 @@ Players may not use sprays that are grotesque, violent, obscene, or
 depict other disturbing or offensive imagery such as pornography,
 racist logos, or “shock” images.
 
-<!--
-vim: filetype=markdown wrapmargin=79
--->
+####Legal
+Copyright (C) 2014 by Ryan Delaney. Permission is granted to copy,
+distribute and/or modify this document under the terms of the GNU Free
+Documentation License, Version 1.3 or any later version published by the
+Free Software Foundation; with no Invariant Sections, no Front-Cover
+Texts, and no Back-Cover Texts. A copy of the license is included in the
+file titled "LICENSE".
+
+Valve, the Valve logo, Left 4 Dead, Left 4 Dead 2, Steam, and the Steam
+logo are trademarks and/or registered trademarks of Valve Corporation.
+All other trademarks are property of their respective owners.
