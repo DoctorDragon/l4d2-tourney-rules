@@ -139,19 +139,18 @@ Matches will be organised into a home/away/neutral system with the intention of 
 #####4.6.2 Allocated servers
 Note: this table is still subject to change based on any further server testing carried out.
 
-Teams | Europe/Russia | North America | South America | Asia | Oceania  
------- | ------------------ | ------------------ | ------------------ | -------------- | -----  
-***EU//RU*** | Frankfurt | **Frankfurt/NY** | Dallas | **Dallas//Chicago** | LA  
-NA | **Frankfurt/NY** | Chicago or Dallas | **Dallas/SA** | **Dallas/Tokyo** | **LA/Sydney**  
-SA | Dallas | **Dallas/SA** | SA | Dallas | LA  
-Asia | ***Dallas//Chicago*** | **Dallas/Tokyo** | Dallas | Tokyo or SG | LA  
-Oceania |  ***LA//Dallas***  | **LA/Sydney** | LA | LA | Sydney  
+Region | Europe | Russia | North America | South America | Asia | Oceania  
+--- | --- | --- | --- | --- | --- | ---  
+Europe | Frankfurt | Frankfurt | *Frankfurt/NY* | Dallas | Dallas | LA  
+Russia | Frankfurt | Frankfurt | *Frankfurt/NY* | Dallas | Chicago | LA  
+North America | *Frankfurt/NY* | *Frankfurt/NY* | Chicago or Dallas | *Dallas/SA* | *Dallas/Tokyo* | *LA/Sydney*  
+South America | Dallas | Dallas | *Dallas/SA* | SA | Dallas | LA  
+Asia | Dallas | Chicago | *Dallas/Tokyo* | Dallas | Tokyo or SG | LA  
+Oceania | LA | Dallas | *LA/Sydney* | LA | LA | Sydney 
 
 Single Server = Single neutral match
 
-**Server/Server** = Home/Away matches
-
-***Dallas//Chicago*** = Single neutral match for Europe on Dallas, and on Chicago for Russia
+*Server/Server* = Home/Away matches
 
 
 ##Section 5: Match scheduling and match rules
