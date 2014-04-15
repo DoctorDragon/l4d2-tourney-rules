@@ -142,7 +142,7 @@ Note: this table is still subject to change based on any further server testing 
 Teams | Europe/Russia | North America | South America | Asia | Oceania  
 ------ | ------------------ | ------------------ | ------------------ | -------------- | -----  
 EU/RU | Frankfurt | Frankfurt/NY | Dallas | Dallas/Chicago | LA  
-NA | Frankfurt/NY | Chicago/Dallas | Dallas/SA | Dallas/Tokyo | LA/Sydney  
+NA | Frankfurt/NY | Chicago/Dallas/NY | Dallas/SA | Dallas/Tokyo | LA/Sydney  
 SA | Dallas | Dallas/SA | SA | Dallas | LA  
 Asia | Dallas/Chicago | Dallas/Tokyo | Dallas | Tokyo/SG | LA  
 Oceania |  LA/Dallas  | LA/Sydney | LA | LA | Sydney  
