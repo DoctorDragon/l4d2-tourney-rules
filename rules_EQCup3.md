@@ -141,11 +141,11 @@ Note: this table is still subject to change based on any further server testing 
 
 Teams | Europe/Russia | North America | South America | Asia | Oceania  
 ------ | ------------------ | ------------------ | ------------------ | -------------- | -----  
-EU/RU | Frankfurt | Frankfurt/NY | Dallas | Dallas/Chicago | LA  
-NA | Frankfurt/NY | Chicago/Dallas/NY | Dallas/SA | Dallas/Tokyo | LA/Sydney  
-SA | Dallas | Dallas/SA | SA | Dallas | LA  
-Asia | Dallas/Chicago | Dallas/Tokyo | Dallas | Tokyo/SG | LA  
-Oceania |  LA/Dallas  | LA/Sydney | LA | LA | Sydney  
+EU//RU | Frankfurt | Frankfurt/NY | Dallas | Dallas//Chicago | LA  
+NA | Frankfurt/NY | Chicago or Dallas | Dallas/SA server | Dallas/Tokyo | LA/Sydney  
+SA | Dallas | Dallas/SA server | SA server | Dallas | LA  
+Asia | Dallas//Chicago | Dallas/Tokyo | Dallas | Tokyo or SG | LA  
+Oceania |  LA//Dallas  | LA/Sydney | LA | LA | Sydney  
 
 Single Server = Single neutral match
 
