@@ -136,7 +136,10 @@ Servers with [DoS Protection](https://github.com/SirPlease/IPTables) are preferr
 #####4.6.1 International draws
 Matches will be organised into a home/away/neutral system with the intention of providing the closest possible levels of overall ping equality. All possible scenarios will be considered, with the most fair options being enforced by the tournament directors.
 
-#####4.6.2 Allocated servers
+#####4.6.2 !cup command
+It is mandatory in home and away matches to use the !cup command to enforce boss spawn consistency in an international round draw. However, the !cup command is optional in neutral matches, but still recommended on the basis of ensuring intuitive boss spawns.
+
+#####4.6.3 Allocated servers
 Note: this table is still subject to change based on any further server testing carried out.
 
 Region | Europe | Russia | North America | South America | Asia | Oceania  
@@ -206,9 +209,11 @@ Aside from staff and authorized casters, no spectators whatsoever will
 be allowed in the server during matches.
 
 #####5.5 Ringers
+
+#####5.5.1 Conditions
 Ringers are allowed, so long as they are not registered with another competing team. A player who has already been called as a ringer for another team, may only ring if the opposing team is fine with it.
 
-######5.5.1 Double agents
+######5.5.2 Double agents
 No registered competitor may ring for another team unless their team has
 withdrawn from the tournament or they have been removed from the roster.
 
