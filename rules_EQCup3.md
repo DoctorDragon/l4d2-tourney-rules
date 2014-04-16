@@ -136,7 +136,10 @@ Servers with [DoS Protection](https://github.com/SirPlease/IPTables) are preferr
 #####4.6.1 International draws
 Matches will be organised into a home/away/neutral system with the intention of providing the closest possible levels of overall ping equality. All possible scenarios will be considered, with the most fair options being enforced by the tournament directors.
 
-#####4.6.2 Allocated servers
+#####4.6.2 !cup command
+It is mandatory for the !cup command to be used in both home and away matches to ensure boss spawn consistency. It is however optional in neutral contests, but also strongly recommended due to the fact that ideal boss spawns will be preselected to offer a more intuitive range of boss spawns according to each individual map.
+
+#####4.6.3 Allocated servers
 Note: this table is still subject to change based on any further server testing carried out.
 
 Region | Europe | Russia | North America | South America | Asia | Oceania  
